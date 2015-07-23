@@ -1,4 +1,4 @@
-# Windows 7 Progress Bar control [![Build status](https://ci.appveyor.com/api/projects/status/glontmicto3vxi6s)](https://ci.appveyor.com/project/Walkman100/windows7progressbar)
+# Windows 7 Progress Bar control [![Build status](https://ci.appveyor.com/api/projects/status/glontmicto3vxi6s/branch/master)](https://ci.appveyor.com/project/Walkman100/windows7progressbar)
 A Custom Windows 7 Progress bar control
 
 Original article: http://wyday.com/windows-7-progress-bar

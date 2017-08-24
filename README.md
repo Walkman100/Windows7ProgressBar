@@ -11,6 +11,7 @@ Download original source: http://wyday.com/files/Windows7ProgressBar.zip
 
 ## Demo Screenshot
 [![Demo Screenshot][Demo Screenshot]][Demo Screenshot]
+
   [Demo Screenshot]: http://walkman100.github.io/images/Screenshots/My_Projects/Windows7ProgressBar/DemoMainWindow.png
 
 Both Demos look exactly the same.
